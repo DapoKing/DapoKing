@@ -22,6 +22,7 @@
 - [How to Get Someone's Password](https://www.youtube.com/watch?v=Qm7k1CPFkIc&list=WL&index=178&ab_channel=JackRhysider)
 - [Hacking IoT devices with Python](https://www.youtube.com/watch?v=o9rlLuUpYxo&list=WL&index=164&t=150s&ab_channel=DavidBombal)
 - [How to hack Wi-Fi networks](https://www.youtube.com/watch?v=FVBti1vhJVA&list=WL&index=70&ab_channel=BSidesPrishtina)
+- [Free Cybersecurity Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools)
 
 
 <h2> 🤳 Connect with me:</h2>
