@@ -23,6 +23,7 @@
 - [Hacking IoT devices with Python](https://www.youtube.com/watch?v=o9rlLuUpYxo&list=WL&index=164&t=150s&ab_channel=DavidBombal)
 - [How to hack Wi-Fi networks](https://www.youtube.com/watch?v=FVBti1vhJVA&list=WL&index=70&ab_channel=BSidesPrishtina)
 - [Free Cybersecurity Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools)
+- [8 cissp domains](https://github.com/DapoKing/DapoKing/blob/main/8%20CISSP%20Domains)
 
 
 <h2> 🤳 Connect with me:</h2>
