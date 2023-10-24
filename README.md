@@ -11,7 +11,7 @@
 
 <h2>Certificates</h2>
 
-- [Google Cloud Security Engineer](https://www.youtube.com/)
+- [Google Cloud Security Engineer](https://coursera.org/verify/professional-cert/QJ3X9SUVWCVP)
 - [CompTia Security+](https://www.youtube.com/)
 
 <h2>Future Projects</h2>
