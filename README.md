@@ -15,7 +15,9 @@
 - [CompTia Security+](https://www.youtube.com/)
 
 <h2>Other Projects</h2>
-- [Python practice with projecteuler.net](https://github.com/DapoKing/PythonProjects/tree/main/Euler_Projects)
+
+- [Python practice with projecteuler.net](https://github.com/DapoKing/PythonProjects)
+ 
 
 <h2>Future Projects</h2>
 
