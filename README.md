@@ -14,6 +14,9 @@
 - [Google Cloud Security Engineer](https://coursera.org/verify/professional-cert/QJ3X9SUVWCVP)
 - [CompTia Security+](https://www.youtube.com/)
 
+<h2>Other Projects</h2>
+- [Python practice with projecteuler.net](https://github.com/DapoKing/PythonProjects/tree/main/Euler_Projects)
+
 <h2>Future Projects</h2>
 
 - [Qualys](https://www.youtube.com/watch?v=l5At5WDj7v0&list=WL&index=35&t=24s&ab_channel=KevinGaray-Cybersecurity)
